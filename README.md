@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently learning **E&TC Second Year course**
 
-- 💬 Ask me about **IOT**
-
 - 📫 How to reach me **krushnayerawar2004@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

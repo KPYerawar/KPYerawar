@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Digital Electronics**
 
-- 🌱 I’m currently learning **E&TC Third Year course**
+- 🌱 I’m currently learning **E&TC Final Year course**
 
 - 📫 How to reach me **krushnayerawar2004@gmail.com**
 
